@@ -1,0 +1,7 @@
+CIS 475 Introduction to  Cryptography Assignment 3 Spring 2023
+1. Implement elgamal in a language of your choice. Encrypt this plain text using your own elgamal keys.
+2. Submit the encrypted cipher along with the ElGamal keys used to encrypt this plaintext .
+3. Your assignment 4 is Elgamal Elliptic curve cryptography 
+4. The last programming assignment is implementing a chat program using AES/DES (your choice). Give user a choice to pick The AES/DES key size in bits. The key is generated and shared between two parties using any one of the public key crypto systems you have learnt.
+5. For this last assignment you can work with a partner.
+6. During the last week of the semester, arrange a meeting with me to demo your AES/DES assignment.
